@@ -5,9 +5,15 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: Academic
+    url: /categories/academic/
+    weight: 20
+  - name: Journal
+    url: /categories/journal/
+    weight: 30
   - name: Topics
     url: tags/
-    weight: 20
-  - name: Uses
-    url: uses/
-    weight: 30
+    weight: 40
+# - name: Uses
+#   url: uses/
+#   weight: 30
